@@ -11,9 +11,7 @@ body {
 #input {
 margin-top: 40px;
  display: block;
- border: solid 10px red;	
- border-radius: 15px;
- 
+
  padding: 25px;
  align-self: center;
 }
@@ -45,7 +43,7 @@ img {
 }
 
 #bugs {
-	dsiplay: flex;
+	display: flex;
 	margin-left: 20px;
 	margin-right: 20px;
 }
